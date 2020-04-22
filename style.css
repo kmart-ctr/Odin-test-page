@@ -1,0 +1,242 @@
+
+
+
+.google {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 109px;
+    max-width: 20%;    
+}
+.apps {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    vertical-align: middle;
+}
+#apps {
+    display: inline-block;
+}
+
+
+#as {
+    display: block;
+    position: absolute;
+    margin-top: 7px;
+    margin-left: 10px;
+    font-size: 13px;
+    font-family: arial, sans-serif;
+    opacity: 0.75;
+    color: #000;
+}
+
+.About {
+    display: inline-block;
+    padding-left: 15px;
+}
+.Store {
+    display: inline-block;
+    padding-left: 15px;
+}
+#gi {
+    display: block;
+    min-width: 165px;
+    padding-left: 30px;
+    padding-right: 30px;
+    position: relative;
+    text-align: right;
+    align-items: center;
+    justify-content: flex-end;
+    font-size: 13px;
+    opacity: 0.75;
+    color: #000;
+    font-family: arial, sans-serif;
+}
+
+.Gmail {
+    display: inline-block;
+    line-height: 24px;
+    vertical-align: middle;
+}
+.Images {
+    display: inline-block;
+    line-height: 24px;
+    vertical-align: middle;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+#sign {
+    background-color: #4285f4;
+    font-weight: bold;
+    display: inline-block;
+    border-radius: 2px;
+    border: 1px;
+    padding-left: 12;
+    padding-right: 12px;
+    color: #fff;
+    padding-left: 15px;
+    height: 30px;
+    width: 69px;
+    padding: 0 12px;
+    vertical-align: middle;
+    font-size: 13px;
+
+
+}
+#search {
+    text-align: center;
+    height: 52px;
+}
+.search {
+    height: 34px;
+    width: 487px;
+    font: 16px arial, sans-serif;
+    line-height: 34px;
+    background-color: transparent;
+    border-color: transparent;
+    margin: auto;
+}
+.outline {
+    display: block;
+    width: 584px;
+    height: 46px;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    padding-top: 6px;
+    position: relative;
+    color: rgb(34, 34, 34);
+    margin: 0 auto;
+}
+.o2 {
+    background: #fff;
+    display: flex;
+    border-radius: 8px;
+    border: 1px solid #dfe1e5;
+    box-shadow: none;
+    border-radius: 24px;
+    z-index: 3;
+    height: 44px;
+    margin: 0 auto;
+    width: 584px;
+}
+.fas.fa-search {
+    padding-top: 15px;
+    padding-left: 15px;
+    opacity: 0.60;
+    line-height:1
+}
+.fas.fa-microphone {
+    padding-top: 15px;
+    padding-right: 15px;
+}
+.gsfl {
+    width: 571px;
+    height: 70px;
+    padding-top: 18px;
+    margin: auto;
+}
+.gs {
+    display: inline-block;
+    height: 36px;
+    min-width: 54px;
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 4px;
+    color: #5F6368;
+    font-size: 14px;
+    font-family: arial, sans-serif;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    text-align: center;
+}
+.fl {
+    display: inline-block;
+    height: 36px;
+    min-width: 54px;
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 4px;
+    color: #5F6368;
+    font-size: 14px;
+    font-family: arial, sans-serif;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    text-align: center;
+}
+.bottom {
+    background: #f2f2f2;
+    border-top: 1px solid #e4e4e4;
+    bottom: 0;
+    font-size: 10pt;
+    height: 35px;
+    position: fixed;
+    width: 100%;
+    left: 0;
+}
+#abh {
+    float: left;
+}
+.ad {
+    font-size: 14px;
+    color: #5f6368;
+    display: inline-block;
+    margin: 0;
+    padding-left: 27px;
+    line-height: 40px;
+    font-family: arial, sans-serif;
+}
+.b {
+    font-size: 14px;
+    color: #5f6368;
+    display: inline-block;
+    margin: 0;
+    padding-left: 27px;
+    line-height: 40px;
+    font-family: arial, sans-serif;
+}
+.hsw {
+    font-size: 14px;
+    color: #5f6368;
+    display: inline-block;
+    margin: 0;
+    padding-left: 27px;
+    line-height: 40px;
+    font-family: arial, sans-serif;
+}
+.pts {
+    margin-right: 30px;
+    float: right;
+}
+.priv {
+    font-size: 14px;
+    color: #5f6368;
+    display: inline-block;
+    margin: 0;
+    padding-left: 27px;
+    line-height: 40px;
+    font-family: arial, sans-serif;
+}
+.terms {
+    font-size: 14px;
+    color: #5f6368;
+    display: inline-block;
+    margin: 0;
+    padding-left: 27px;
+    line-height: 40px;
+    font-family: arial, sans-serif;
+}
+.set {
+    font-size: 14px;
+    color: #5f6368;
+    display: inline-block;
+    margin: 0;
+    padding-left: 27px;
+    line-height: 40px;
+    font-family: arial, sans-serif;
+}
